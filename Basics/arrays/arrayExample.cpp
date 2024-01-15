@@ -30,7 +30,7 @@ int main(){
         cout<<"Dynamic array: "<<myvector[i]<<endl;
     }
 
-
+//
 
 
 
