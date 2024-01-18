@@ -1,7 +1,6 @@
 //this is sorted
 // we jump sqrt of space each time
 
-
 // Function to find the breaking point in an array of boolean values
 function two_crystal_balls(breaks: boolean[]): number {
     // Calculate the jump amount as the square root of the length of the array
